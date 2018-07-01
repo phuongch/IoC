@@ -1,0 +1,8 @@
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/bin/Debug/netcoreapp1.1/IOC.deps.json
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/bin/Debug/netcoreapp1.1/IOC.runtimeconfig.json
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/bin/Debug/netcoreapp1.1/IOC.runtimeconfig.dev.json
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/obj/Debug/netcoreapp1.1/IOC.AssemblyInfo.cs
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/bin/Debug/netcoreapp1.1/IOC.dll
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/bin/Debug/netcoreapp1.1/IOC.pdb
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/obj/Debug/netcoreapp1.1/IOC.dll
+/Users/phuongch/Documents/Phuongch/Code/CSharp/IOC/obj/Debug/netcoreapp1.1/IOC.pdb
